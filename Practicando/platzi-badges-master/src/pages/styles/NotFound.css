@@ -1,0 +1,11 @@
+.Background__NotFound {
+  width: 100%;
+  min-height: calc(100vh - 60px);
+  background: url("../../images/stars.svg"), #1b1b25;
+  background-repeat: repeat;
+
+  color: #ffffff;
+
+  display: flex;
+  align-items: center;
+}
